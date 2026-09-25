@@ -1,5 +1,5 @@
 {
-    "name": "Integration Google Drive, OpenAI (ChatGPT, Whisper), Google Sheets",
+    "name": "pdf-to-excel.json",
     "flow": [
         {
             "id": 5,
